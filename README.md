@@ -220,7 +220,7 @@ A: The scoring system is conservative. Even good passwords might lose points for
 ---
 ## Contact 📬
 
-For questions or feedback, open an issue on the [GitHub repository](https://github.com/itz-danish/Y-TUNE/) or contact on LinkedIn [Mohammad Danish](https://www.linkedin.com/in/mohammad-danish-76570a24a/) .
+For questions or feedback, open an issue on the [GitHub repository](https://github.com/itz-danish/password-strength-checker/) or contact on LinkedIn [Mohammad Danish](https://www.linkedin.com/in/mohammad-danish-76570a24a/) .
 
 ---
 
